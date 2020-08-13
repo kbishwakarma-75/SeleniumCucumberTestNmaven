@@ -1,0 +1,1 @@
+[![Board Status](https://dev.azure.com/OptimalBeauty/3683a712-7dfe-4143-880c-cf7bf81da9de/b4dd5318-37d8-425e-8d99-2d578ac17984/_apis/work/boardbadge/7edb6299-de63-4a81-b3be-67bb39ffba12)](https://dev.azure.com/OptimalBeauty/3683a712-7dfe-4143-880c-cf7bf81da9de/_boards/board/t/b4dd5318-37d8-425e-8d99-2d578ac17984/Microsoft.RequirementCategory)
